@@ -291,18 +291,19 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024 - 2028**
 
-          * ba computer sciense at a semi fancy school
+          *   ba BBIT at Strathmore University
 
-          **2014**
+          **2023 - 2024**
 
-          * react certificate somewhere
+          *   full stack  certificate somewhere
 
-          **2011**
+          **2023**
 
-          * my highschool
+          *   my highschool
+
         styles:
           self:
             textAlign: left

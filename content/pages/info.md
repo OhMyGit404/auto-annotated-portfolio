@@ -221,7 +221,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Android
       - type: Label
         label: CSS
         url: ''

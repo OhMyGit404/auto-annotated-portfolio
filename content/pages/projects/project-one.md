@@ -4,7 +4,7 @@ title: Home management system
 colors: colors-a
 date: '2024-09-14'
 client: Awesome client
-description: 'First time using an Arduino :) '
+description: 'First time using an Arduino :)'
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

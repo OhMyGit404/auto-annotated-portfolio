@@ -1,11 +1,10 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: School Management System
 colors: colors-a
-date: '2022-01-22'
+date: '2024-09-20'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: 'Uhh, it''ll be publicized in a few after all the reviews are made :) '
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg

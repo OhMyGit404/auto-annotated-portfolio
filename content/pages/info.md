@@ -209,7 +209,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: Django
       - type: Label
         label: Microsoft Office
       - type: Label

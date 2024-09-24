@@ -6,8 +6,7 @@ date: ''
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  because I have insomnia :) but it did pay off i guess.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg

@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Match Fixture Generator
 colors: colors-a
-date: '0002-12-20'
+date: '0202-12-20'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably

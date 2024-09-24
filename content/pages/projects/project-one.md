@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Home management system
 colors: colors-a
-date: '0024-01-15'
+date: '0024-09-15'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
